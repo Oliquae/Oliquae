@@ -1,4 +1,9 @@
-### Hi there 👋
+# Bonjour ! 👋
+
+### I am Olivia.
+
+I am a Belgian Web Developer and a Photographer and I live in Nantes.
+
 
 <!--
 **Palingenae/Palingenae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
