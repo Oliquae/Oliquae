@@ -8,7 +8,7 @@
 
 🎓 I am graduating at [@OpenClassrooms](https://github.com/OpenClassrooms) where I am learning again Back-End development with Symfony and Docker.
 
-🔭 Beside that, I am working on my personal porfolio at [Palingenae / Portfolio](https://github.com/Palingenae/palingenaedotbe)
+🔭 Beside that, I am working on my personal porfolio at [Palingenae / palingenaedotbe](https://github.com/Palingenae/palingenaedotbe)
 
 
 ### Those things aren't unknown to me
