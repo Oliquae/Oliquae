@@ -4,7 +4,9 @@
 
 :woman_technologist: I am a Belgian Front-End flavoured Web Developer and a Photographer living in Nantes.
 
-🌱 I am in apprenticeship at [@KNPLabs](https://github.com/KnpLabs) and [@OpenClassrooms](https://github.com/OpenClassrooms) where I am learning Back-End development with Symfony and Docker.
+🌱 I am available for a new apprenticeship.
+
+🎓 I am graduating at [@OpenClassrooms](https://github.com/OpenClassrooms) where I am learning again Back-End development with Symfony and Docker.
 
 🔭 Beside that, I am working on my personal porfolio at [Palingenae / Portfolio](https://github.com/Palingenae/palingenaedotbe)
 
