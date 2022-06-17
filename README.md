@@ -6,9 +6,9 @@
 
 🌱 I am an apprentice at [@coopTilleuls](https://github.com/coopTilleuls).
 
-🎓 I am graduating at [@OpenClassrooms](https://github.com/OpenClassrooms) where I am learning again Back-End development with Symfony and Docker. Now I am working on [**Project 6 : SnowTricks**](https://github.com/Palingenae/OC-P6-SnowTricks)
+🎓 I am graduating at [@OpenClassrooms](https://github.com/OpenClassrooms) where I am learning again Back-End development with Symfony and Docker. Now I am working on the final technical project from the cursus, [**Project 8 : ToDo&Co**](https://github.com/Palingenae/OC-P8-Todo-Co)
 
-🔭 Beside that, I am working on my personal porfolio at [Palingenae / palingenaedotbe](https://github.com/Palingenae/palingenaedotbe)
+🔭 Beside that, I am working on my personal porfolio at [Palingenae / palingenaedotbe](https://github.com/Palingenae/palingenaedotbe). There will be nice typography.
 
 
 ### Those things aren't unknown to me
