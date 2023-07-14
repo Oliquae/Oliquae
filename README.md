@@ -4,8 +4,6 @@
 
 :woman_technologist: I am a Belgian Front-End flavoured Web Developer and a Photographer living in Nantes.
 
-🌱 I am an apprentice near cursus completion. I remember everything I learned before my depression.
-
 🎓 I am graduating at [@OpenClassrooms](https://github.com/OpenClassrooms) where I am learning again Back-End development with Symfony and Docker. Now I am working on the final technical project from the cursus, [**Project 8 : ToDo&Co**](https://github.com/Palingenae/OC-P8-Todo-Co)
 
 🔭 Beside that, I am working on my personal porfolio at [Palingenae / palingenaedotbe](https://github.com/Palingenae/palingenaedotbe). There will be nice typography.
