@@ -2,12 +2,8 @@
 
 ## I am Olivia.
 
-:woman_technologist: I am a Belgian Front-End flavoured Web Developer and a Photographer living in Nantes. Full-Stack Developer wannabe.
+:woman_technologist: I am a Belgian Front-End flavored Web Developer and Photographer living in Nantes.
 
-🔭 Beside that, I am working on my personal porfolio at [Palingenae / palingenae.be](https://github.com/Palingenae/palingenae.be). There will be nice typography.
+🔭 Beside that, I am working on my personal portfolio at [Palingenae / palingenae.be](https://github.com/Palingenae/palingenae.be). There is also a list of my projects with my design tokens on [palingenae.github.io](https://palingenae.github.io).
 
-🎓 I am graduating at [@OpenClassrooms](https://github.com/OpenClassrooms) where I am learning again Back-End development with Symfony and Docker. Now I am working on the final technical project from the cursus, [**Project 8 : ToDo&Co**](https://github.com/Palingenae/OC-P8-Todo-Co)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palingenae&layout=compact)
+🎓 I am graduating at [@OpenClassrooms](https://github.com/OpenClassrooms) where I am learning again Back-End development with Symfony and Docker. Now I am working on the final technical project from the cursus, [**Project 8 : ToDo&Co**](https://github.com/Palingenae/OC-P8-Todo-Co). **The cursus is on hold, so is the latter project.**
