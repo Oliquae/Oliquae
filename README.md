@@ -4,7 +4,7 @@
 
 ## Why is it empty?
 
-All my personal projects I had on this website have been deleted from this website then archived on my personal computer and will be transfered to another Git platform. I will not keep any new personal project on this one, I'll put them elsewhere! 
+All my personal projects I had on this website have been deleted then archived on my personal computer and will be transfered to another Git platform. I will not keep any new personal project on this one, I'll put them elsewhere! 
 
 **Long Story Short:** I don't like AI.
 
