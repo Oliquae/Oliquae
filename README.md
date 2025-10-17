@@ -1,7 +1,10 @@
 # Bonjour ! Hello ! Hallo !👋
 
-## I am Olivia.
+:woman_technologist: I am Olivia, a Front-End flavored Web Developer working on something big !
 
-:woman_technologist: I am a Belgian Front-End flavored Web Developer and Photographer.
+## Why is it empty?
 
-🔭 Beside that, I am working on my personal portfolio at [Palingenae / palingenae.be](https://github.com/Palingenae/palingenae.be). There is also a list of my projects with my design tokens on [palingenae.github.io](https://palingenae.github.io).
+All my personal projects I had on this website have been archived on my personal computer and will be transfered to another Git platform. I will not keep any new personal project on this one, I'll put them elsewhere! 
+
+**Long Story Short:** I don't like AI.
+
