@@ -8,3 +8,6 @@ All my personal projects I had on this website have been deleted then archived o
 
 **Long Story Short:** I don't like AI.
 
+## So where are you now?
+
+I am now on Codeberg, I am pushing my favourite projects there. [Click on this link](https://codeberg.org/Oliquae) to find me again! I am also building my new portfolio there.
