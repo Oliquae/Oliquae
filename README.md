@@ -2,7 +2,9 @@
 
 :woman_technologist: I am Olivia, a Business/Functional Analyst with a big focus on the product. 
 
-I only code during my free time so now my focus is my personal projects when I open my IDE.
+I only code during my free time so now my focus is my personal projects when I open my IDE. 
+
+I'll keep this profile if it's necessary in a professional setting, some day.
 
 ## "Why is it empty?"
 
